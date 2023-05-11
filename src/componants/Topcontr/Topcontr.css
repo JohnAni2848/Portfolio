@@ -1,0 +1,11 @@
+.topcontr {
+    background: url(/src/Assts/pexels-photo-66997.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 39em;
+    object-position: bottom;
+    box-shadow: inset 0 0 0 200em rgba(2, 65, 92, 0.5);
+}
+span{
+    font-size: 0.7em;
+}

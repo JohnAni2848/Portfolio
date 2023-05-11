@@ -1,0 +1,17 @@
+.contact{
+color: white;
+text-align: center;
+position: relative;
+bottom: 3em;
+font-size: 2em;
+}
+
+.contact>h1{
+    font-family: Helvetica;
+}
+
+.Contact_contr>p{
+    font-family: Helvetica;
+    padding-top: 1em;
+    justify-content: baseline
+}

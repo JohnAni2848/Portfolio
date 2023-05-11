@@ -1,0 +1,25 @@
+.experience{
+    display: flex;
+    flex-direction: column;
+    border: 0.2em dotted white;
+    border-radius: 1em;
+    width: 30em;
+    height: 10em;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    overflow: hidden;
+}
+
+.experience > p{
+    font-family: Helvetica;
+    font-size: 2em;
+    letter-spacing: 0.1em;
+
+}
+.experience > h1{
+    font-family: Helvetica;
+    font-size: 2em;
+    letter-spacing: 0.01em;
+
+}

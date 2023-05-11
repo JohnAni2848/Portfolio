@@ -1,0 +1,67 @@
+ 
+ .topcont{
+    color: rgb(255, 255, 255);
+ }
+
+ .topcont_img >p{
+   font-size: 2em;
+   
+ }
+
+ .topcont_contr{
+    position: absolute;
+    top: 15em;
+    right: 30em;
+    font-family: "Times New Roman";
+    line-height: 3em;
+
+ }
+
+ .topcont_contr >h1{
+font-size: 3em;
+ }
+ .topcont_contr >p{
+    letter-spacing: 0.1em;
+    text-align: left;
+    font-size: 1.5em;
+
+ }
+
+ .topcont_but1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(218, 87, 5);
+    border: 0.1em solid rgb(255, 255, 255);
+    font-size: 1em;
+    padding: 0.7em 2em;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 2em;
+
+ }
+
+ .topcont_but1:hover{
+    color:rgb(218, 87, 5);
+    background-color: rgb(255, 255, 255);
+    border: 0.1em solid rgb(0, 0, 0);
+
+ }
+
+ .topcont_but2{
+    color: rgb(255, 255, 255);
+    border: 0.1em solid rgb(255, 255, 255);
+    background-color: transparent;
+    font-size: 1em;
+    padding: 0.7em 2em;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 2em;
+    left: 1em;
+    font-weight: 400;
+ }
+ .topcont_but2:hover{
+    color:rgb(218, 87, 5);
+    background-color: rgb(255, 255, 255);
+    border: 0.1em solid rgb(0, 0, 0);
+
+
+ }

@@ -1,0 +1,45 @@
+.skillcontr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5em;
+}
+
+.skillcontr_text{
+    color: white;
+    flex: 0.6;
+    text-align: left;
+    max-width: 50em;
+    margin-bottom:5em;
+}
+
+.skillcontr_text>h2{
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+.skillcontr_image{
+    flex: 0.4;
+    text-align: center;
+    margin-right: 5em;
+
+}
+
+.skillcontr_image>img{
+    width: 40em;
+    object-fit: contain;
+}
+
+.skillcontr_Skillset{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.skillcontr_Skillset>h4{
+    font-size: 1.5em;
+    padding: 1em 0 ;
+}
+
+.skillcontr_slider >.MuiLinearProgress-root{
+    background-color: rgb(255, 255, 255);
+    height: 0.5em;
+}
+
